@@ -1,5 +1,8 @@
-# Project
 # Credit Card Validation
+
+This task is an extension from Programming basics, please complete the following task using Typescript.
+
+---
 
 You're starting your own credit card business. You need to come up with a new way to validate credit cards with a simple function called  `validateCreditCard`  that returns  `true`  or  `false` messages.
 
